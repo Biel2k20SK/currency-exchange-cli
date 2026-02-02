@@ -1,34 +1,33 @@
-# Allan Gabriel 💻🌍
+# Currency Exchange CLI 💱🌍
 
-Hi! I'm **Allan Gabriel**, a beginner developer and student starting my journey in **Computer Science** in Brazil.  
-Welcome to my portfolio! Here you can explore my projects and see what I am building as I learn programming.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
----
-
-## 🎓 Education
-
-- Currently starting **Computer Science** at a university in Brazil 🇧🇷
+**Description:** Python CLI application to fetch and display live and historical currency exchange rates using AwesomeAPI.  
+Created by **Allan Gabriel**, a beginner developer starting Computer Science in Brazil 🇧🇷.
 
 ---
 
-## 📂 Projects
+## 🎓 About Me
 
-### 1️⃣ Currency Exchange Rate Finder 🌍💱
-**Description:** A Python CLI program that fetches live and historical currency exchange data using the AwesomeAPI.  
-It provides clear information including bid, ask, high, low, percentage change, and timestamp.
+Hi! I'm **Allan Gabriel**, a beginner developer and Computer Science student in Brazil.  
+This project is part of my learning journey in programming and API integration.
 
-**Features:**
-- Real-time currency exchange lookup
-- Historical data for custom date ranges
-- Well-formatted output messages
-- Error handling for invalid input or missing data
-- CLI interface for easy usage
+---
+
+## 📂 Project: Currency Exchange CLI
+
+**What it does:**  
+- Fetches **real-time currency exchange rates**  
+- Displays **historical data** for custom date ranges  
+- Shows clear market info: bid, ask, high, low, percentage change, timestamp  
+- Handles invalid input or missing data gracefully  
 
 **Technologies used:** Python, Requests, JSON, Datetime
 
-**GIF Preview:**
+**Demo GIF:**  
 ![Currency Exchange App Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-**Usage:**
+**How to run:**  
 ```bash
 python currency_exchange.py
