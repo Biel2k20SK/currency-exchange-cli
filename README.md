@@ -30,4 +30,5 @@ This project is part of my learning journey in programming and API integration.
 
 **How to run:**  
 ```bash
-python currency_exchange.py
+python main.py
+
