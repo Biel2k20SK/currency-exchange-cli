@@ -26,9 +26,10 @@ This project is part of my learning journey in programming and API integration.
 **Technologies used:** Python, Requests, JSON, Datetime
 
 **Demo GIF:**  
-![Currency Exchange App Demo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Currency Exchange App Demo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms4bG1ndzZ4cnJ3aHR3ZGg4bmwydGs0cGp3NjRnc2p5bHMxYnJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pNaUhWvw3XP9AOmkYe/giphy.gif)
 
 **How to run:**  
 ```bash
 python main.py
+
 
